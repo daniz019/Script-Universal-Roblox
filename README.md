@@ -16,9 +16,9 @@ Este repositório contém um script universal para Roblox, desenvolvido para ofe
 
 ## Requisitos:
 - **Executor de Scripts**: Um executor compatível com Roblox. Recomendamos os seguintes:
-  - **[Xeno](https://github.com/rlz-ve/x/releases/download/v1.1.0F2/Xeno-v1.1.0-x64.zip)**: Executor leve e eficiente.
-  - **Synapse X**: Um dos executores mais populares e confiáveis.
-  - **Solara**: Executor gratuito e amplamente utilizado.
+  - **[Xeno](https://github.com/rlz-ve/x/releases/download/v1.1.0F2/Xeno-v1.1.0-x64.zip)**: Executor leve, gratuito e eficiente.
+  - **[Synapse Z](https://synapsez.net/)**: Um dos executores mais populares e confiáveis.
+  - **[Swift](https://getswift.xyz/)**: Executor gratuito e amplamente utilizado.
 
 ## Aviso:
 Este script é destinado apenas para fins educacionais e de entretenimento. O uso em jogos online pode violar os termos de serviço da plataforma. Use por sua própria conta e risco.
