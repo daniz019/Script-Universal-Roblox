@@ -19,7 +19,6 @@ Este repositório contém um script universal para Roblox, desenvolvido para ofe
   - **[Xeno](https://github.com/rlz-ve/x/releases/download/v1.1.0F2/Xeno-v1.1.0-x64.zip)**: Executor leve e eficiente.
   - **Synapse X**: Um dos executores mais populares e confiáveis.
   - **Solara**: Executor gratuito e amplamente utilizado.
-- **Biblioteca OrionLib**: O script utiliza a biblioteca OrionLib para a interface gráfica.
 
 ## Aviso:
 Este script é destinado apenas para fins educacionais e de entretenimento. O uso em jogos online pode violar os termos de serviço da plataforma. Use por sua própria conta e risco.
