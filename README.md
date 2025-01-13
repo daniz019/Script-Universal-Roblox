@@ -1,5 +1,9 @@
 # Script Universal para Roblox
 
+<div align="center">
+  <img src="https://i.imgur.com/Bc5b6YQ.png" alt="Interface do Script Universal" width="800">
+</div>
+
 Este repositório contém um script universal para Roblox, desenvolvido para oferecer diversas funcionalidades úteis em jogos da plataforma. O script inclui ferramentas como **Aimbot**, **ESP (Extra Sensory Perception)**, **Boost de FPS** e muito mais, tudo configurável através de uma interface intuitiva.
 
 ## Funcionalidades Principais:
